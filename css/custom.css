@@ -1,14 +1,16 @@
-*html,body{
-    margin:0;
+* html, body {
+    margin: 0;
     padding: 0;
 }
-
 
 /*
 ====================
 top area start
 ====================
 */
+.section-top {
+    background: #fff;
+}
 
 .top-area {
     background: #bc282d;
@@ -20,29 +22,24 @@ top area start
 
 }
 
-
 .top-area_menu ul li {
     padding: 0 0.5em;
 }
 
-
-.top-area_menu ul li a{
+.top-area_menu ul li a {
     color: #deb7b8;
 
 }
 
-
-.top-area_menu ul li a:hover{
+.top-area_menu ul li a:hover {
     text-decoration: none;
     color: #ffd7d8;
 }
 
-
-.top-area_social a{
+.top-area_social a {
     padding: 0 0.5em;
     color: #ffd7d8;
 }
-
 
 /*
 ====================
@@ -59,21 +56,26 @@ section-menu start
     color: #444;
 }
 
-
-.nav-link:hover,a#navbarDropdownMenuLink:hover {
+.nav-link:hover, a#navbarDropdownMenuLink:hover {
     color: #2032a4;
 }
+
 /*
 ====================
 section-banner start
 ====================
 */
+
+.section-banner {
+    background: #fff;
+}
+
 .carousel-item {
     height: 80vh;
     overflow: hidden;
 }
 
-.carousel-item img{
+.carousel-item img {
     width: 100%;
     /*height: 80vh;*/
     min-height: 300px;
@@ -84,14 +86,13 @@ section-banner start
     background-size: cover;
 }
 
-
 /*
 ====================
 section2 start
 ====================
 */
 
-.section-2{
+.section-2 {
     background: #9797C6;
     padding: 1.5em 0;
 }
@@ -101,41 +102,36 @@ section2 start
     color: #fff;
 }
 
-
 .assessment-btn {
-   border-radius: 30px;
+    border-radius: 30px;
 }
-
-
-
-
-
-
-
 
 /*
 ====================
 section3 start
 ====================
 */
+.section3 {
+    background: #fff;
+    padding: 5em 0;
+}
 
-.section3-box{
+.section3-box {
     height: 9.8em;
     width: 100%;
     overflow: hidden;
+
 }
 
-.section3-box img{
+.section3-box img {
     width: 100%;
 
 }
-
 
 .section3-box {
     position: relative;
 
 }
-
 
 .section3-box-title {
     position: absolute;
@@ -143,11 +139,11 @@ section3 start
     background: #55f;
     width: 100%;
     padding: 0.5em 0.5em 0;
-    transition:500ms ease;
+    transition: 500ms ease;
 
 }
 
-.section3-box a{
+.section3-box a {
     color: #fff;
 }
 
@@ -159,12 +155,9 @@ section3 start
     background: #55f9;
     color: #fff;
     bottom: 0;
-    top:0;
+    top: 0;
     padding-bottom: 0.5em;
 }
-
-
-
 
 /*
 ====================
@@ -172,7 +165,151 @@ section4 start
 ====================
 */
 
-.section4 img{
+.section4 {
+    /*background-repeat: no-repeat;*/
+
+    width: 100%;
+    padding: 80px 0;
+    position: relative;
+    background: url('../images/banner5.jpg');
+    background-size: cover;
+    background-position: center top;
+
+}
+
+.section4:before {
+    content: '';
+    background: rgba(111, 55, 55, 0.85);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+
+}
+
+.section4-title {
+    z-index: 1;
+    color: #fff;
+    font-size: 2em;
+    padding: 0 0 1em 0;
+    font-weight: 400;
+    text-align: center;
+    width: 100%;
+}
+
+.section4-title:after {
+    content: '';
+    display: block;
+    width: 35px;
+    height: 6px;
+    background: #fff;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.3em;
+    /*z-index: 3;*/
+}
+
+.section4-image {
+    padding-bottom: 1.5em;
+}
+
+.section4-image img {
+
+    width: 100%;
+}
+
+/*============================
+section 5 start
+==============================
+*/
+
+.section5 {
+    background: url('../images/banner3.jpg');
+    background-attachment: fixed;
+    background-position: center top;
+    background-size: cover;
     height: 30em;
+    position: relative;
+}
+
+.section5::before {
+    content: '';
+    background: #0000004d;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.section5-title {
+    /*z-index: 6656554865;*/
+    color: white;
+    font-size: 2em;
+    line-height: 60px;
+    margin: 0 auto;
+    padding: 1em;
+    font-weight: 400;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+.section5-title:after {
+    content: '';
+    display: block;
+    width: 35px;
+    height: 6px;
+    background: #fff;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.3em;
+}
+
+.section5-body {
+    position: relative;
+}
+
+
+
+/*============================
+section6 start
+==============================
+*/
+
+.section6-title {
+    color: mediumpurple;
+    font-size: 2em;
+    line-height: 60px;
+    margin: 0 auto;
+    padding: 1em;
+    font-weight: 400;
+    text-align: center;
+    width: 100%;
+    position: relative;
+}
+
+.section6-title:after {
+    content: '';
+    display: block;
+    width: 35px;
+    height: 6px;
+    background: #ad1c23;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.3em;
+}
+
+.section6-image img{
     width: 100%;
 }
