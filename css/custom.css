@@ -179,7 +179,7 @@ section4 start
 
 .section4:before {
     content: '';
-    background: rgba(111, 55, 55, 0.85);
+    background: rgba(40, 43, 20,0.7);
     position: absolute;
     top: 0;
     bottom: 0;
@@ -214,13 +214,36 @@ section4 start
 }
 
 .section4-image {
-    padding-bottom: 1.5em;
+    margin-bottom: 1.5em;
+    position: relative;
 }
 
 .section4-image img {
-
+    height: 8em;
     width: 100%;
+    border-radius: 5px;
 }
+
+.section4-caption {
+    position: absolute;
+    bottom: 0;
+    padding: 0.3em;
+    background: #0006;
+    width: 100%;
+    color: #fff;
+    border-radius: 0 0 5px 5px;
+}
+
+.section4-image:hover{
+    border-bottom: 3px double #fff;
+    border-radius: 5px;
+    padding-bottom: 0.4em;
+    margin-top: -10px;
+    transition: 400ms ease;
+    margin-bottom: 0.4em;
+
+}
+
 
 /*============================
 section 5 start
@@ -247,7 +270,6 @@ section 5 start
 }
 
 .section5-title {
-    /*z-index: 6656554865;*/
     color: white;
     font-size: 2em;
     line-height: 60px;
@@ -312,4 +334,25 @@ section6 start
 
 .section6-image img{
     width: 100%;
+}
+
+
+.section6-caption {
+    font-size: 0.9em;
+    padding: 1em 0;
+}
+
+.section6-caption a{
+    color: #222b53;
+    text-align: center;
+}
+
+
+.section6-caption a:hover{
+    text-decoration: none;
+    color: #4444c9;
+}
+
+.section6-image:hover {
+
 }
