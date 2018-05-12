@@ -58,13 +58,13 @@ section-menu start
 }
 
 .bg-white {
-    background-color: #efebeb!important;
+    background-color: #efebeb !important;
 }
-
 
 .fa-bars {
     color: #ed1a00;
 }
+
 /*
 ====================
 section-banner start
@@ -139,7 +139,8 @@ section3 start
 
 .section3-box img {
     width: 100%;
-    height: auto;
+    /*height: auto;*/
+    height: 233px;
     vertical-align: top;
 
 }
@@ -194,7 +195,7 @@ section4 start
 
 .section4:before {
     content: '';
-    background:#ffffffcc;
+    background: #ffffffcc;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -319,8 +320,6 @@ section 5 start
     position: unset;
 }
 
-
-
 .carousel-item-custom img {
     width: 100%;
     background: no-repeat center top;
@@ -339,15 +338,16 @@ section 5 start
     padding: 1em;
     border-radius: 5px;
 }
-.carousel-custom-caption h4{
+
+.carousel-custom-caption h4 {
     font-size: 22px;
 }
 
-.carousel-custom-caption h5{
+.carousel-custom-caption h5 {
     font-size: 18px;
 }
 
-.carousel-custom-caption p{
+.carousel-custom-caption p {
     font-size: 16px;
 }
 
@@ -363,15 +363,15 @@ section 5 start
 }
 
 /*.carousel-item-custom-prev {*/
-    /*position: absolute;*/
-    /*top: -160px;*/
-    /*right: 75% !important;*/
-    /*left: auto;*/
+/*position: absolute;*/
+/*top: -160px;*/
+/*right: 75% !important;*/
+/*left: auto;*/
 /*}*/
 /*.carousel-item-custom-next {*/
-    /*position: absolute;*/
-    /*top: -160px;*/
-    /*left: 75%;*/
+/*position: absolute;*/
+/*top: -160px;*/
+/*left: 75%;*/
 /*}*/
 
 /*============================
@@ -568,8 +568,6 @@ section-footer start
     padding: 0 0.5em;
 }
 
-
-
 /*===========================
 usa page start
 =============================*/
@@ -604,17 +602,19 @@ usa page start
     padding: 0 3em 0.8em;
 }
 
-@media screen and (max-width:480px){
+@media screen and (max-width: 480px) {
     .usa-icon {
         padding-right: 1em;
         float: left;
         width: 4em;
         height: 3em;
     }
+
     .usa-title {
         font-size: 1em;
         font-weight: 600;
     }
+
     .usa-short_description {
         font-size: 14px;
         text-align: left;
@@ -626,18 +626,19 @@ usa page start
         height: 0 !important;
         border-top: 2em solid transparent !important;
         border-bottom: 2em solid transparent !important;
-        top: 25%!important;
+        top: 25% !important;
         position: absolute !important;
         right: 0 !important;
         border-right: 3em solid #b7102e !important;
 
     }
 
-    .usa-more a{
+    .usa-more a {
         font-size: 14px;
         margin: -11px 20px !important;
     }
 }
+
 .usa-more {
     width: 0;
     height: 0;
@@ -659,13 +660,11 @@ usa page start
     bottom: 0;
 }
 
-.usa-more a:hover{
+.usa-more a:hover {
     text-decoration: none;
     cursor: pointer;
 
 }
-
-
 
 /*===========================
 affiliation page start
@@ -694,4 +693,109 @@ affiliation page start
     margin-right: auto;
     margin-top: 0.3em;
     /*z-index: 3;*/
+}
+
+/*===========================
+australia start
+=============================*/
+.australia-banner {
+    height: 20em;
+}
+
+.australia-banner img {
+    height: 100%;
+    width: 100%;
+}
+
+.australia-menu {
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+}
+
+.heart {
+    position: relative;
+    width: 100px;
+    height: 70px;
+    margin: 0 auto;
+
+}
+
+.heart:before,
+.heart:after {
+    position: absolute;
+    content: "";
+    left: 50px;
+    top: -32px;
+    width: 50px;
+    height: 80px;
+    background:#ea1a00;
+    -moz-border-radius: 50px 50px 0 0;
+    border-radius: 50px 50px 0 0;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    -webkit-transform-origin: 0 100%;
+    -moz-transform-origin: 0 100%;
+    -ms-transform-origin: 0 100%;
+    -o-transform-origin: 0 100%;
+    transform-origin: 0 100%;
+}
+
+.heart:after {
+    left: 0;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    -webkit-transform-origin: 100% 100%;
+    -moz-transform-origin: 100% 100%;
+    -ms-transform-origin: 100% 100%;
+    -o-transform-origin: 100% 100%;
+    transform-origin: 100% 100%;
+}
+
+.australia-menu_list p {
+   margin-bottom: 3em;
+}
+
+.australia-menu_list a {
+    color: #333;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.australia-menu_list a:hover {
+    text-decoration: none;
+    color: #29a100;
+
+}
+
+.australia-menu_list a:hover .heart:before {
+    background: #29a100;
+}
+
+.australia-menu_list a:hover .heart:after {
+    background: #29a100;
+}
+
+
+/*============================
+about australia
+==============================*/
+.about-australia-section3 p {
+    font-size: 16px;
+    text-align: justify;
+}
+.about-australia-section3 ul li {
+    font-size: 16px;
+    /*text-align: justify;*/
+}
+
+.about-australia_title {
+    font-size: 1.5em;
+    color: goldenrod;
 }
