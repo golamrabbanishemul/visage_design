@@ -792,10 +792,20 @@ about australia
 }
 .about-australia-section3 ul li {
     font-size: 16px;
-    /*text-align: justify;*/
+
 }
 
 .about-australia_title {
     font-size: 1.5em;
     color: goldenrod;
+}
+
+
+
+/*============================
+management start
+==============================*/
+
+.card img{
+    height: 12em;
 }
