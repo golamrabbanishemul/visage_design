@@ -699,7 +699,7 @@ affiliation page start
 australia start
 =============================*/
 .australia-banner {
-    height: 20em;
+    height: 25em;
 }
 
 .australia-banner img {
@@ -713,49 +713,15 @@ australia start
     flex-flow: row wrap;
 }
 
-.heart {
+.square {
     position: relative;
-    width: 100px;
-    height: 70px;
-    margin: 0 auto;
-
-}
-
-.heart:before,
-.heart:after {
-    position: absolute;
-    content: "";
-    left: 50px;
-    top: -32px;
-    width: 50px;
-    height: 80px;
-    background:#ea1a00;
-    -moz-border-radius: 50px 50px 0 0;
-    border-radius: 50px 50px 0 0;
-    -webkit-transform: rotate(-45deg);
-    -moz-transform: rotate(-45deg);
-    -ms-transform: rotate(-45deg);
-    -o-transform: rotate(-45deg);
-    transform: rotate(-45deg);
-    -webkit-transform-origin: 0 100%;
-    -moz-transform-origin: 0 100%;
-    -ms-transform-origin: 0 100%;
-    -o-transform-origin: 0 100%;
-    transform-origin: 0 100%;
-}
-
-.heart:after {
-    left: 0;
-    -webkit-transform: rotate(45deg);
-    -moz-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    -o-transform: rotate(45deg);
-    transform: rotate(45deg);
-    -webkit-transform-origin: 100% 100%;
-    -moz-transform-origin: 100% 100%;
-    -ms-transform-origin: 100% 100%;
-    -o-transform-origin: 100% 100%;
-    transform-origin: 100% 100%;
+    width: 6em;
+    height: 6em;
+    margin: -60px auto 20px;
+    background: #ed1a00;
+    padding: 1.5em;
+    color: #fff;
+    border-radius: 5px;
 }
 
 .australia-menu_list p {
@@ -774,14 +740,21 @@ australia start
 
 }
 
-.australia-menu_list a:hover .heart:before {
-    background: #29a100;
+.australia-menu_list a:hover .square{
+    color: #29a100;
 }
 
-.australia-menu_list a:hover .heart:after {
-    background: #29a100;
+.profile-img-block {
+    width: 100%;
+    /* height: 100%; */
+    height: 330px;
 }
 
+.card img {
+    /* height: 12em; */
+    max-width: 100%;
+    max-height: 100%;
+}
 
 /*============================
 about australia
@@ -805,7 +778,3 @@ about australia
 /*============================
 management start
 ==============================*/
-
-.card img{
-    height: 12em;
-}
