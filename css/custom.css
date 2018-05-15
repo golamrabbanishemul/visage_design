@@ -13,9 +13,9 @@ top area start
 }
 
 .top-area {
-    background: #ed1a00;
+    background: #2aa300;
     color: #fff;
-    padding: 1em 0;
+    padding: 0.5em 0;
     font-size: 14px;
 }
 
@@ -45,20 +45,33 @@ section-menu start
 */
 
 .logo {
-    height: 3em;
-    width: 5em;
+    height: 4em;
+    width: 6em;
 }
 
 .nav-link {
-    color: #444;
+    color: #2aa200;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
 }
+/*.a#navbarDropdownMenuLinkabout{*/
+    /*color: #2aa200;*/
+/*}*/
 
+.dropdown {
+    color: #2aa200;
+}
 .nav-link:hover, a#navbarDropdownMenuLink:hover {
     color: #2032a4;
 }
 
-.bg-white {
-    background-color: #efebeb !important;
+nav.navbar.navbar-expand-md.navbar-primary.bg-white.sticky-top.navbar-custom {
+    border-bottom: 3px solid #ef6262;
+}
+
+ul.navbar-nav.ml-auto {
+    margin-top: 60px;
 }
 
 .fa-bars {
@@ -99,6 +112,20 @@ section-banner start
     background-size: cover;
 }
 
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+     bottom: 76%;
+     left: 48%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    background: rgba(0,0,0,0.4);
+    border-radius: 5px;
+}
 /*
 ====================
 section2 start
@@ -187,7 +214,8 @@ section4 start
     width: 100%;
     padding: 80px 0;
     position: relative;
-    background: url('../images/banner5.jpg');
+    /*background: url('../images/banner5.jpg');*/
+    background: url('../images/worldmap.jpg');
     background-size: cover;
     background-position: center top;
 
@@ -212,6 +240,7 @@ section4 start
     font-weight: 400;
     text-align: center;
     width: 100%;
+    text-transform: uppercase;
 }
 
 .section4-title:after {
@@ -699,7 +728,7 @@ affiliation page start
 australia start
 =============================*/
 .australia-banner {
-    height: 25em;
+    height: 20em;
 }
 
 .australia-banner img {
@@ -715,9 +744,9 @@ australia start
 
 .square {
     position: relative;
-    width: 6em;
-    height: 6em;
-    margin: -60px auto 20px;
+    width: 8em;
+    height: 7em;
+    margin: -76px auto 20px;
     background: #ed1a00;
     padding: 1.5em;
     color: #fff;
@@ -725,7 +754,9 @@ australia start
 }
 
 .australia-menu_list p {
-   margin-bottom: 3em;
+   /*margin-bottom: 3em;*/
+    font-size: 14px;
+    padding-top: 5px;
 }
 
 .australia-menu_list a {
@@ -736,12 +767,14 @@ australia start
 
 .australia-menu_list a:hover {
     text-decoration: none;
-    color: #29a100;
+    /*color: #29a100;*/
+    color: #000;
 
 }
 
 .australia-menu_list a:hover .square{
-    color: #29a100;
+    /*color: #29a100;*/
+    color: #000;
 }
 
 .profile-img-block {
@@ -776,5 +809,34 @@ about australia
 
 
 /*============================
-management start
+study abroad start
 ==============================*/
+
+.study-box {
+    position: relative;
+    margin-bottom: 3em;
+    height: 13em;
+}
+
+.study-box img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.study-box-title {
+    position: absolute;
+    bottom: 0;
+    background: #ed1a00;
+    width: 100%;
+    padding: 0.4em 0.8em;
+    transition: 500ms ease;
+    display: flex;
+    color: #fff;
+    border-radius: 0 0 5px 5px;
+    height: 2.5em;
+}
+
+.active{
+    color: #000;
+}
