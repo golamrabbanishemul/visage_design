@@ -29,10 +29,10 @@
                 </div>
                 <div class="col-12 col-sm-4 d-flex px-2">
                     <!--<div class="top-area_menu d-flex-inline">-->
-                        <!--<ul class="nav">-->
-                            <!--<li class="nav-item"><a href=""><i class="fas fa-angle-right"></i> Testimonial</a></li>-->
-                            <!--<li class="nav-item"><a href=""><i class="fas fa-angle-right"></i> Careers</a></li>-->
-                        <!--</ul>-->
+                    <!--<ul class="nav">-->
+                    <!--<li class="nav-item"><a href=""><i class="fas fa-angle-right"></i> Testimonial</a></li>-->
+                    <!--<li class="nav-item"><a href=""><i class="fas fa-angle-right"></i> Careers</a></li>-->
+                    <!--</ul>-->
                     <!--</div>-->
 
                     <div class="top-area_social px-4 d-flex-inline">
@@ -101,28 +101,28 @@
         <div class="australia-menu_list">
             <a href="about_australia_migration.html">
                 <div class="square text-center"><i class="fas fa-bookmark" style="font-size: 50px;"></i>
-                <p class="text-center">About Australia</p>
+                    <p class="text-center">About Australia</p>
                 </div>
             </a>
         </div>
         <div class="australia-menu_list">
             <a href="australia_migration_details.html">
                 <div class="square text-center"><i class="fas fa-graduation-cap" style="font-size: 50px;"></i>
-                <p class="text-center">Australia Migration</p>
+                    <p class="text-center">Australia Migration</p>
                 </div>
             </a>
         </div>
         <div class="australia-menu_list">
             <a href="australia_migration_pr.html">
                 <div class="square text-center"><i class="fas fa-users" style="font-size: 50px;"></i>
-                <p class="text-center">Permanent Residence </p>
+                    <p class="text-center">Permanent Residence </p>
                 </div>
             </a>
         </div>
         <div class="australia-menu_list">
             <a href="australia_apply_form.html">
                 <div class="square text-center active"><i class="far fa-edit" style="font-size: 50px;"></i>
-                <p class="text-center active">Apply <br> Now</p>
+                    <p class="text-center active">Apply <br> Now</p>
                 </div>
             </a>
         </div>
@@ -135,24 +135,620 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="card bg-light">
-                    <div class="card-header text-center">Information and Assessment Form</div>
+                    <div class="card-header text-center bg-danger text-white"> Online Application Form</div>
                     <div class="card-body">
                         <form action="">
-                            <div class="col-sm-6">
-                                1. Are you currently in Australia:
-                            </div>
-                            <div class="col-sm-6">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    1. Are you currently in Australia:
+                                </div>
+                                <div class="col-sm-6">
 
-                                <div class="form-check form-check-inline">
-                                    <input class="form-check-input" name="currently-in-australia" type="checkbox"
-                                           id="inlineCheckbox1" value="yes">
-                                    <label class="form-check-label" for="inlineCheckbox1">Yes</label>
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" name="currently-in-australia" type="radio"
+                                               id="inlineCheckbox1" value="yes">
+                                        <label class="form-check-label" for="inlineCheckbox1">Yes</label>
+                                    </div>
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" name="currently-in-australia" type="radio"
+                                               id="inlineCheckbox2" value="no">
+                                        <label class="form-check-label" for="inlineCheckbox2">No</label>
+                                    </div>
                                 </div>
-                                <div class="form-check form-check-inline">
-                                    <input class="form-check-input" name="currently-in-australia" type="checkbox"
-                                           id="inlineCheckbox2" value="no">
-                                    <label class="form-check-label" for="inlineCheckbox2">No</label>
+                            </div>
+
+                            <div id="are_you_in_australia" class="row">
+
+                                <div class="col-sm-6">
+                                    Australian Visa Information:
                                 </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group row">
+                                        <label for="visa_category" class="col-sm-7"> Visa Category</label>
+                                        <input type="text" id="visa_category" name="visa_category"
+                                               class="form-control col-sm-5">
+                                    </div>
+                                    <div class="form-group row">
+                                        <label for="visa_issue_date" class="col-sm-7"> Visa Issue Date </label>
+                                        <input type="date" id="visa_issue_date" name="visa_issue_date"
+                                               class="form-control col-sm-5">
+                                    </div>
+                                    <div class="form-group row">
+                                        <label for="visa_expire_date" class="col-sm-7"> Visa Expire Date </label>
+                                        <input type="date" id="visa_expire_date" name="visa_expire_date"
+                                               class="form-control col-sm-5">
+                                    </div>
+                                    <div class="form-group row">
+                                        <label for="any_other_relevant_information" class="col-sm-7"> Any other relevant
+                                            information </label>
+                                        <input type="text" id="any_other_relevant_information"
+                                               name="any_other_relevant_information"
+                                               class="form-control col-sm-5">
+                                    </div>
+
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    2. Any overseas study:
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" name="currently-in-australia" type="radio"
+                                               id="overseas_study1" value="yes">
+                                        <label class="form-check-label" for="overseas_study1">Yes</label>
+                                    </div>
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" name="currently-in-australia" type="radio"
+                                               id="overseas_study2" value="no">
+                                        <label class="form-check-label" for="overseas_study2">No</label>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div id="overseas_study_yes">
+                                <div class="row">
+                                    <div class="col-sm-6"></div>
+                                    <div class="col-sm-6">
+                                        <!--<hr>-->
+                                        <div class="form-group row">
+                                            <label for="overseas_country" class="col-sm-6"> Country</label>
+                                            <select name="overseas_country" id="overseas_country"
+                                                    class="form-control col-sm-6">
+                                                <option value="--">--</option>
+                                                <option value="Afghanistan"> Afghanistan</option>
+                                                <option value="Albania"> Albania</option>
+                                                <option value="Algeria"> Algeria</option>
+                                                <option value="American Samoa"> American Samoa</option>
+                                                <option value="Angola"> Angola</option>
+                                            </select>
+                                        </div>
+                                        <div class="form-group row">
+                                            <label for="qualification_achieved" class="col-sm-6"> Qualification
+                                                Achieved </label>
+                                            <input type="text" id="qualification_achieved"
+                                                   class="form-control col-sm-6">
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    3. Personal Information:
+                                </div>
+                                <div class="col-sm-6">
+
+                                    <div class="form-group row">
+                                        <label class="col-sm-6 d-inline" for="family_name"> Family Name </label>
+
+                                        <input class="form-control col-sm-6 d-inline" name="family_name" type="text"
+                                               id="family_name">
+                                    </div>
+                                    <div class="form-group row">
+                                        <label class="col-sm-6 d-inline" for="given_name"> Given Name </label>
+
+                                        <input class="form-control col-sm-6 d-inline" name="given_name" type="text"
+                                               id="given_name">
+                                    </div>
+                                    <div class="form-group row">
+                                        <label class="form-check-label col-sm-6">Gender</label>
+                                        <div class="col-sm-6">
+                                            <div class="form-check form-check-inline">
+                                                <input class="form-check-input" name="gender" type="radio"
+                                                       id="gender1" value="yes">
+                                                <label class="form-check-label" for="gender1">Yes</label>
+                                            </div>
+                                            <div class="form-check form-check-inline">
+                                                <input class="form-check-input" name="gender" type="radio"
+                                                       id="gender2" value="no">
+                                                <label class="form-check-label" for="gender2">No</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group row">
+                                        <label for="date_of_birth" class="col-sm-6 d-inline">Date of Birth</label>
+                                        <input type="date" name="date_of_birth" id="date_of_birth"
+                                               class="form-control col-sm-6 d-inline">
+                                    </div>
+                                    <div class="form-group row">
+                                        <label for="email" class="col-sm-6 d-inline">Email</label>
+                                        <input type="text" name="email" id="email"
+                                               class="form-control col-sm-6 d-inline">
+                                    </div>
+                                    <div class="form-group row">
+                                        <label for="skype" class="col-sm-6 d-inline">Skype</label>
+                                        <input type="text" name="skype" id="skype"
+                                               class="form-control col-sm-6 d-inline">
+                                    </div>
+                                    <div class="form-group row">
+                                        <label for="city" class="col-sm-6 d-inline">City</label>
+                                        <input type="text" name="city" id="city" class="form-control col-sm-6 d-inline">
+                                    </div>
+                                    <div class="form-group row">
+                                        <label for="country" class="col-sm-6 d-inline">Country</label>
+                                        <select name="country" id="country" class="form-control col-sm-6 d-inline">
+                                            <option value="1">Afghanistan</option>
+                                            <option value="2">Albania</option>
+                                            <option value="3">Bangladesh</option>
+                                        </select>
+                                    </div>
+
+                                    <div class="form-group row">
+                                        <label for="country_of_citizenship" class="col-sm-6 d-inline">Country Of
+                                            Citizenship</label>
+                                        <select name="country_of_citizenship" id="country_of_citizenship"
+                                                class="form-control col-sm-6 d-inline">
+                                            <option value="1">Afghanistan</option>
+                                            <option value="2">Albania</option>
+                                            <option value="3">Bangladesh</option>
+                                        </select>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    4. Any relative in Australia ? :
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-check form-check-inline">
+
+                                        <input class="form-check-input" name="relative_in_australia" type="radio"
+                                               id="relative_in_australia1" value="yes">
+                                        <label class="form-check-label" for="relative_in_australia1"> Yes </label>
+                                    </div>
+                                    <div class="form-check form-check-inline">
+
+                                        <input class="form-check-input" name="relative_in_australia" type="radio"
+                                               id="relative_in_australia2" value="no">
+                                        <label class="form-check-label" for="relative_in_australia2"> No </label>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    5.Family Detail :
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group row">
+                                        <label class="form-check-label col-sm-6">Marital Status</label>
+                                        <div class="col-sm-6">
+                                            <div class="form-check form-check-inline">
+                                                <input class="form-check-input" name="gender" type="radio"
+                                                       id="single" value="single">
+                                                <label class="form-check-label" for="single">Single</label>
+                                            </div>
+                                            <div class="form-check form-check-inline">
+                                                <input class="form-check-input" name="gender" type="radio"
+                                                       id="married" value="married">
+                                                <label class="form-check-label" for="married">Married</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="col-sm-12">
+                                <div class="row">
+                                    <div>
+                                        6. Applicant Educational Information:
+                                    </div>
+                                    <div class="card">
+                                        <table class="table">
+                                            <thead class="bg-success">
+                                            <tr class="text-white">
+                                                <th>COURSE</th>
+                                                <th>SPECIALIZATION</th>
+                                                <th>YEAR STARTED</th>
+                                                <th>YEAR COMPLETED</th>
+                                                <th>INSTITUTION NAME</th>
+                                                <th>GRADE / PERCENTAGE</th>
+                                            </tr>
+                                            </thead>
+                                            <tbody>
+                                            <tr>
+                                                <td>Phd</td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Master</td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Bachelor</td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Year 12</td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Year 10</td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Diplomas</td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Professional Qualification</td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                            <br>
+                            <div>
+                                7. Applicant English Language Ability
+                            </div>
+                            <div>
+                                <div class="card">
+                                    <div class="card-header bg-success text-white">
+                                        ENGLISH LANGUAGE ABILITY
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="row">
+                                            <div class="col-sm-6 d-inline">
+                                                Have you appeared for IELTS?
+                                            </div>
+                                            <div class="col-sm-6 d-inline">
+                                                <div class="form-group">
+                                                    <div class="form-check form-check-inline">
+                                                        <input class="form-check-input" name="ielts" type="radio"
+                                                               id="ielts1" value="yes">
+                                                        <label class="form-check-label" for="ielts1">Yes</label>
+                                                    </div>
+                                                    <div class="form-check form-check-inline">
+                                                        <input class="form-check-input" name="ielts" type="radio"
+                                                               id="ielts2" value="no">
+                                                        <label class="form-check-label" for="ielts2">No</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-sm-6 d-inline">
+                                                Have you appeared in any other English Language?
+                                            </div>
+                                            <div class="col-sm-6 d-inline">
+                                                <div class="form-group">
+                                                    <div class="form-check form-check-inline">
+                                                        <input class="form-check-input" name="other_eng_language"
+                                                               type="checkbox"
+                                                               id="other_eng_language1" value="yes">
+                                                        <label class="form-check-label"
+                                                               for="other_eng_language1">Yes</label>
+                                                    </div>
+                                                    <div class="form-check form-check-inline">
+                                                        <input class="form-check-input" name="other_eng_language"
+                                                               type="checkbox"
+                                                               id="other_eng_language2" value="no">
+                                                        <label class="form-check-label"
+                                                               for="other_eng_language2">No</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <br>
+                            <div class="col-sm-12">
+                                <div class="row">
+                                    <div>
+                                        8. Applicant Employment Information:
+                                    </div>
+                                    <div class="card">
+                                        <table class="table">
+                                            <thead class="bg-success">
+                                            <tr class="text-white">
+                                                <th>START DATE</th>
+                                                <th>END DATE</th>
+                                                <th>JOB DESIGNATION</th>
+                                                <th>EMPLOYER</th>
+                                                <th>FULL TIME / PART TIME</th>
+
+                                            </tr>
+                                            </thead>
+                                            <tbody>
+                                            <tr>
+
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td>
+                                                    <select class="form-control"
+                                                            name="ApplicantEmploymentInformation-FullTimePartTime1"
+                                                            id="ApplicantEmploymentInformation-FullTimePartTime1">
+                                                        <option value="--">---</option>
+                                                        <option value="part_time">Part Time</option>
+                                                        <option value="full_time">Full Time</option>
+                                                    </select>
+                                                </td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td>
+                                                    <select class="form-control"
+                                                            name="ApplicantEmploymentInformation-FullTimePartTime2"
+                                                            id="ApplicantEmploymentInformation-FullTimePartTime2">
+                                                        <option value="--">---</option>
+                                                        <option value="part_time">Part Time</option>
+                                                        <option value="full_time">Full Time</option>
+                                                    </select>
+                                                </td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td>
+                                                    <select class="form-control"
+                                                            name="ApplicantEmploymentInformation-FullTimePartTime3"
+                                                            id="ApplicantEmploymentInformation-FullTimePartTime3">
+                                                        <option value="--">---</option>
+                                                        <option value="part_time">Part Time</option>
+                                                        <option value="full_time">Full Time</option>
+                                                    </select>
+                                                </td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td>
+                                                    <select class="form-control"
+                                                            name="ApplicantEmploymentInformation-FullTimePartTime4"
+                                                            id="ApplicantEmploymentInformation-FullTimePartTime4">
+                                                        <option value="--">---</option>
+                                                        <option value="part_time">Part Time</option>
+                                                        <option value="full_time">Full Time</option>
+                                                    </select>
+                                                </td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td>
+                                                    <select class="form-control"
+                                                            name="ApplicantEmploymentInformation-FullTimePartTime5"
+                                                            id="ApplicantEmploymentInformation-FullTimePartTime5">
+                                                        <option value="--">---</option>
+                                                        <option value="part_time">Part Time</option>
+                                                        <option value="full_time">Full Time</option>
+                                                    </select>
+                                                </td>
+
+                                            </tr>
+                                            <tr>
+
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td>
+                                                    <select class="form-control"
+                                                            name="ApplicantEmploymentInformation-FullTimePartTime6"
+                                                            id="ApplicantEmploymentInformation-FullTimePartTime6">
+                                                        <option value="--">---</option>
+                                                        <option value="part_time">Part Time</option>
+                                                        <option value="full_time">Full Time</option>
+                                                    </select>
+                                                </td>
+
+                                            </tr>
+                                            <tr>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td><input type="text" class="form-control"></td>
+                                                <td>
+                                                    <select class="form-control"
+                                                            name="ApplicantEmploymentInformation-FullTimePartTime7"
+                                                            id="ApplicantEmploymentInformation-FullTimePartTime7">
+                                                        <option value="--">---</option>
+                                                        <option value="part_time">Part Time</option>
+                                                        <option value="full_time">Full Time</option>
+                                                    </select>
+                                                </td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    9. Applying for:
+                                </div>
+                                <div class="col-sm-8">
+                                    <div class="form-group row">
+                                        <label for="level_of_study" class=" col-sm-6"> Level Of Study </label>
+                                        <div class="col-sm-6">
+                                            <select class="form-control" name="level_of_study" id="level_of_study">
+                                                <option value="---">---</option>
+                                                <option value="english"> English</option>
+                                                <option value="diploma"> Diploma</option>
+                                                <option value="advanced_diploma"> Advanced Diploma</option>
+                                                <option value="bachelor"> Bachelor</option>
+                                            </select>
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group row">
+                                        <label for="state_preference" class=" col-sm-6">State Preference </label>
+                                        <div class="col-sm-6">
+                                            <select class="form-control" name="state_preference" id="state_preference">
+                                                <option value="---">---</option>
+                                                <option value="english"> Australian Capital Territory</option>
+                                                <option value="diploma"> New South Wales</option>
+                                                <option value="advanced_diploma"> Northern Territory</option>
+                                                <option value="bachelor"> Queensland</option>
+                                                <option value="bachelor"> South Australia</option>
+                                                <option value="bachelor"> Victoria</option>
+                                                <option value="bachelor"> Western Australia</option>
+                                                <option value="bachelor"> Any</option>
+                                            </select>
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group row">
+                                        <label for="city_preference" class=" col-sm-6">City Preference</label>
+                                        <div class="col-sm-6">
+                                            <input type="text" id="city_preference" class="form-control">
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <hr>
+
+                            <div class="row">
+                                <div class="col-sm-4"></div>
+                                <div class="col-sm-8">
+                                    <div class="form-group row">
+                                        <label for="how_did_you_hear_about_us" class=" col-sm-6"> How did you hear about
+                                            us </label>
+                                        <div class="col-sm-6">
+                                            <select class="form-control" name="how_did_you_hear_about_us"
+                                                    id="how_did_you_hear_about_us">
+                                                <option value="---">---</option>
+                                                <option value="english"> Website/Search Engine</option>
+                                                <option value="diploma"> Email/Newsletter</option>
+                                                <option value="advanced_diploma"> Seminar/Expo</option>
+                                                <option value="bachelor"> Family/Friend</option>
+                                                <option value="bachelor"> Facebook</option>
+                                                <option value="bachelor"> Newspaper</option>
+                                                <option value="bachelor"> News</option>
+                                                <option value="bachelor"> Other</option>
+                                            </select>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="form-group row">
+                                        <label for="additional_information_or_comments" class=" col-sm-6">Any additional
+                                            information or comments</label>
+                                        <div class="col-sm-6">
+                                            <input type="text" id="additional_information_or_comments"
+                                                   name="additional_information_or_comments" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group row">
+                                        <label for="upload_cv" class=" col-sm-6">Upload CV</label>
+                                        <div class="col-sm-6">
+                                            <input type="file" id="upload_cv" name="upload_cv" class="form-control">
+                                        </div>
+                                    </div>
+
+
+                                </div>
+
+                            </div>
+                            <hr>
+                            <div class="form-group">
+                                <input type="checkbox" name="all_the_info_is_correct[]" id="all_the_info_is_correct">
+                                <label for="all_the_info_is_correct">All the information given above is true and correct
+                                    at the time of submission </label>
+                            </div>
+
+                            <div class="form-group">
+                                <input type="checkbox" name="health_related_problems[]" id="health_related_problems">
+                                <label for="health_related_problems">To the best of my knowledge I/We don't have any
+                                    health related problems or issues </label>
+                            </div>
+
+                            <div class="form-group">
+                                <input type="checkbox" name="good_character[]" id="good_character">
+                                <label for="good_character">I/We bear a good character.</label>
+                            </div>
+
+                            <div class="text-center">
+                                <input type="submit" value="submit" class="btn btn-success">
                             </div>
 
                         </form>
@@ -224,6 +820,27 @@
         integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+"
         crossorigin="anonymous"></script>
 
+<script>
+    $('document').ready(function () {
+        $('#are_you_in_australia').hide();
+        $('#inlineCheckbox1').on('click', function () {
+            $('#are_you_in_australia').show();
+        });
+        $('#inlineCheckbox2').on('click', function () {
+            $('#are_you_in_australia').hide();
+        });
 
+
+        $('#overseas_study_yes').hide();
+        $('#overseas_study1').on('click', function () {
+            $('#overseas_study_yes').show();
+
+        });
+        $('#overseas_study2').on('click', function () {
+            $('#overseas_study_yes').hide();
+
+        });
+    });
+</script>
 </body>
 </html>

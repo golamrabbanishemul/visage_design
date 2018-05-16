@@ -840,3 +840,18 @@ study abroad start
 .active{
     color: #000;
 }
+
+/*=============================
+apply form
+==============================*/
+#are_you_in_australia {
+    border-top:1px solid #dedede;
+    padding: 1em 0;
+    margin-top: 0.8em;
+}
+
+#overseas_study_yes {
+    border-top:1px solid #dedede;
+    padding: 1em 0;
+    margin-top: 0.8em;
+}
