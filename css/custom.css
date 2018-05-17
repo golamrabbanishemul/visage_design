@@ -748,9 +748,14 @@ australia start
     height: 7em;
     margin: -76px auto 20px;
     background: #ed1a00;
-    padding: 1.5em;
     color: #fff;
     border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em 0;
+    flex-direction: column;
+
 }
 
 .australia-menu_list p {
