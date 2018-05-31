@@ -261,10 +261,11 @@ section4 start
 .section4-image {
     margin-bottom: 1.5em;
     position: relative;
+    height: 6em;
 }
 
 .section4-image img {
-    height: 12em;
+    height: 100%;
     width: 100%;
     border-radius: 5px;
 }
@@ -729,6 +730,7 @@ australia start
 =============================*/
 .australia-banner {
     height: 20em;
+    width: 100%;
 }
 
 .australia-banner img {
