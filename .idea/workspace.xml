@@ -2,41 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eff563c6-5563-4405-a35b-cad6203c0918" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/canada/about_canada.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/canada/about_canada_migration.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/canada/canada_after_study.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/canada/canada_education.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/canada/canada_migration_details.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/canada/canada_migration_pr.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/japan/about_japan.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/japan/japan_after_study.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/japan/japan_education.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/malaysia/about_malaysia.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/malaysia/about_malaysia_migration.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/malaysia/malaysia_after_study.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/malaysia/malaysia_education.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/malaysia/malaysia_migration_details.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/malaysia/malaysia_migration_pr.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uk/about_uk.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uk/uk_after_study.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uk/uk_education.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/usa/about_usa.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/usa/usa_after_study.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/usa/usa_education.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/about_australia.html" afterPath="$PROJECT_DIR$/australia/about_australia.html" />
-      <change beforePath="$PROJECT_DIR$/about_australia_migration.html" afterPath="$PROJECT_DIR$/australia/about_australia_migration.html" />
-      <change beforePath="$PROJECT_DIR$/australia.html" afterPath="$PROJECT_DIR$/australia/australia.html" />
-      <change beforePath="$PROJECT_DIR$/australia_apply_form.html" afterPath="$PROJECT_DIR$/australia/australia_apply_form.html" />
-      <change beforePath="$PROJECT_DIR$/australia_migration.html" afterPath="$PROJECT_DIR$/australia/australia_migration.html" />
-      <change beforePath="$PROJECT_DIR$/australia_migration_details.html" afterPath="$PROJECT_DIR$/australia/australia_migration_details.html" />
-      <change beforePath="$PROJECT_DIR$/australia_migration_pr.html" afterPath="$PROJECT_DIR$/australia/australia_migration_pr.html" />
-      <change beforePath="$PROJECT_DIR$/australian_after_study.html" afterPath="$PROJECT_DIR$/australia/australian_after_study.html" />
-      <change beforePath="$PROJECT_DIR$/australian_education.html" afterPath="$PROJECT_DIR$/australia/australian_education.html" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/australia/australia_apply_form.html" afterPath="$PROJECT_DIR$/australia/australia_apply_form.html" />
+      <change beforePath="$PROJECT_DIR$/australia/australia_migration_details.html" afterPath="$PROJECT_DIR$/australia/australia_migration_details.html" />
+      <change beforePath="$PROJECT_DIR$/australia/australia_migration_pr.html" afterPath="$PROJECT_DIR$/australia/australia_migration_pr.html" />
+      <change beforePath="$PROJECT_DIR$/australia/australian_after_study.html" afterPath="$PROJECT_DIR$/australia/australian_after_study.html" />
+      <change beforePath="$PROJECT_DIR$/australia/australian_education.html" afterPath="$PROJECT_DIR$/australia/australian_education.html" />
+      <change beforePath="$PROJECT_DIR$/canada/canada_after_study.html" afterPath="$PROJECT_DIR$/canada/canada_after_study.html" />
+      <change beforePath="$PROJECT_DIR$/canada/canada_education.html" afterPath="$PROJECT_DIR$/canada/canada_education.html" />
+      <change beforePath="$PROJECT_DIR$/canada/canada_migration_details.html" afterPath="$PROJECT_DIR$/canada/canada_migration_details.html" />
+      <change beforePath="$PROJECT_DIR$/canada/canada_migration_pr.html" afterPath="$PROJECT_DIR$/canada/canada_migration_pr.html" />
+      <change beforePath="$PROJECT_DIR$/japan/japan_after_study.html" afterPath="$PROJECT_DIR$/japan/japan_after_study.html" />
+      <change beforePath="$PROJECT_DIR$/japan/japan_education.html" afterPath="$PROJECT_DIR$/japan/japan_education.html" />
+      <change beforePath="$PROJECT_DIR$/malaysia/malaysia_after_study.html" afterPath="$PROJECT_DIR$/malaysia/malaysia_after_study.html" />
+      <change beforePath="$PROJECT_DIR$/malaysia/malaysia_education.html" afterPath="$PROJECT_DIR$/malaysia/malaysia_education.html" />
+      <change beforePath="$PROJECT_DIR$/malaysia/malaysia_migration_details.html" afterPath="$PROJECT_DIR$/malaysia/malaysia_migration_details.html" />
+      <change beforePath="$PROJECT_DIR$/malaysia/malaysia_migration_pr.html" afterPath="$PROJECT_DIR$/malaysia/malaysia_migration_pr.html" />
       <change beforePath="$PROJECT_DIR$/migration.html" afterPath="$PROJECT_DIR$/migration.html" />
       <change beforePath="$PROJECT_DIR$/study_abroad.html" afterPath="$PROJECT_DIR$/study_abroad.html" />
+      <change beforePath="$PROJECT_DIR$/uk/uk_after_study.html" afterPath="$PROJECT_DIR$/uk/uk_after_study.html" />
+      <change beforePath="$PROJECT_DIR$/uk/uk_education.html" afterPath="$PROJECT_DIR$/uk/uk_education.html" />
+      <change beforePath="$PROJECT_DIR$/usa/usa_after_study.html" afterPath="$PROJECT_DIR$/usa/usa_after_study.html" />
+      <change beforePath="$PROJECT_DIR$/usa/usa_education.html" afterPath="$PROJECT_DIR$/usa/usa_education.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,101 +37,33 @@
       <file leaf-file-name="migration.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/migration.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="99" column="67" lean-forward="false" selection-start-line="99" selection-start-column="67" selection-end-line="99" selection-end-column="67" />
+            <state relative-caret-position="216">
+              <caret line="107" column="18" lean-forward="true" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="australia_apply_form.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/australia/australia_apply_form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1836">
-              <caret line="150" column="22" lean-forward="true" selection-start-line="150" selection-start-column="22" selection-end-line="150" selection-end-column="22" />
+            <state relative-caret-position="180">
+              <caret line="796" column="14" lean-forward="true" selection-start-line="796" selection-start-column="14" selection-end-line="796" selection-end-column="14" />
               <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1531289421987" expanded="false" signature="4042:4058" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="canada_migration_details.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/canada/canada_migration_details.html">
+      <file leaf-file-name="australia_migration_details.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/australia/australia_migration_details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="128" column="47" lean-forward="false" selection-start-line="128" selection-start-column="47" selection-end-line="128" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_canada_migration.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/canada/about_canada_migration.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="117" column="45" lean-forward="false" selection-start-line="117" selection-start-column="45" selection-end-line="117" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_malaysia_migration.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/malaysia/about_malaysia_migration.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-666">
-              <caret line="128" column="54" lean-forward="false" selection-start-line="128" selection-start-column="54" selection-end-line="128" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="malaysia_migration_details.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/malaysia/malaysia_migration_details.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18">
-              <caret line="128" column="49" lean-forward="false" selection-start-line="128" selection-start-column="49" selection-end-line="128" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="malaysia_migration_pr.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/malaysia/malaysia_migration_pr.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-234">
-              <caret line="128" column="49" lean-forward="false" selection-start-line="128" selection-start-column="49" selection-end-line="128" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="canada_migration_pr.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/canada/canada_migration_pr.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="117" column="45" lean-forward="false" selection-start-line="117" selection-start-column="45" selection-end-line="117" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="malaysia_education.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/malaysia/malaysia_education.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="85" column="48" lean-forward="false" selection-start-line="85" selection-start-column="48" selection-end-line="85" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="malaysia_after_study.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/malaysia/malaysia_after_study.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
-              <caret line="103" column="52" lean-forward="false" selection-start-line="103" selection-start-column="52" selection-end-line="103" selection-end-column="52" />
-              <folding />
+            <state relative-caret-position="432">
+              <caret line="111" column="22" lean-forward="true" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
+              <folding>
+                <marker date="1531288982279" expanded="false" signature="4050:4066" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -170,10 +89,12 @@
       <find>section4-title</find>
       <find>nav-link dropdown-toggle</find>
       <find>Australian Registered</find>
+      <find>Australia</find>
     </findStrings>
     <replaceStrings>
       <replace>col-sm-4</replace>
       <replace>square</replace>
+      <replace>Canada</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -197,33 +118,38 @@
         <option value="$PROJECT_DIR$/about_australia_migration.html" />
         <option value="$PROJECT_DIR$/australia_migration_details.html" />
         <option value="$PROJECT_DIR$/australia_migration_pr.html" />
-        <option value="$PROJECT_DIR$/japan/japan_education.html" />
-        <option value="$PROJECT_DIR$/japan/japan_after_study.html" />
         <option value="$PROJECT_DIR$/japan/about_japan.html" />
         <option value="$PROJECT_DIR$/canada/about_canada.html" />
-        <option value="$PROJECT_DIR$/canada/canada_after_study.html" />
-        <option value="$PROJECT_DIR$/canada/canada_education.html" />
         <option value="$PROJECT_DIR$/uk/canada_education.html" />
         <option value="$PROJECT_DIR$/uk/about_uk.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
-        <option value="$PROJECT_DIR$/uk/uk_after_study.html" />
-        <option value="$PROJECT_DIR$/uk/uk_education.html" />
-        <option value="$PROJECT_DIR$/usa/usa_after_study.html" />
         <option value="$PROJECT_DIR$/usa/about_usa.html" />
-        <option value="$PROJECT_DIR$/usa/usa_education.html" />
         <option value="$PROJECT_DIR$/malaysia/uk_education.html" />
-        <option value="$PROJECT_DIR$/study_abroad.html" />
         <option value="$PROJECT_DIR$/malaysia/about_malaysia.html" />
-        <option value="$PROJECT_DIR$/malaysia/malaysia_after_study.html" />
-        <option value="$PROJECT_DIR$/malaysia/malaysia_education.html" />
-        <option value="$PROJECT_DIR$/canada/canada_migration_details.html" />
-        <option value="$PROJECT_DIR$/canada/canada_migration_pr.html" />
         <option value="$PROJECT_DIR$/canada/about_canada_migration.html" />
         <option value="$PROJECT_DIR$/malaysia/about_malaysia_migration.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/japan/japan_education.html" />
+        <option value="$PROJECT_DIR$/japan/japan_after_study.html" />
+        <option value="$PROJECT_DIR$/canada/canada_education.html" />
+        <option value="$PROJECT_DIR$/uk/uk_after_study.html" />
+        <option value="$PROJECT_DIR$/uk/uk_education.html" />
+        <option value="$PROJECT_DIR$/usa/usa_education.html" />
+        <option value="$PROJECT_DIR$/usa/usa_after_study.html" />
+        <option value="$PROJECT_DIR$/australia/australian_education.html" />
+        <option value="$PROJECT_DIR$/australia/australian_after_study.html" />
+        <option value="$PROJECT_DIR$/study_abroad.html" />
+        <option value="$PROJECT_DIR$/malaysia/malaysia_education.html" />
+        <option value="$PROJECT_DIR$/malaysia/malaysia_after_study.html" />
+        <option value="$PROJECT_DIR$/canada/canada_migration_details.html" />
+        <option value="$PROJECT_DIR$/canada/canada_migration_pr.html" />
         <option value="$PROJECT_DIR$/malaysia/malaysia_migration_details.html" />
         <option value="$PROJECT_DIR$/malaysia/malaysia_migration_pr.html" />
         <option value="$PROJECT_DIR$/migration.html" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/australia/australia_migration_details.html" />
+        <option value="$PROJECT_DIR$/australia/australia_migration_pr.html" />
+        <option value="$PROJECT_DIR$/australia/australia_apply_form.html" />
+        <option value="$PROJECT_DIR$/canada/canada_after_study.html" />
       </list>
     </option>
   </component>
@@ -258,6 +184,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,11 +202,6 @@
               <item name="visage_design" type="b2602c69:ProjectViewProjectNode" />
               <item name="visage_design" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="canada" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="visage_design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="visage_design" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="visage_design" type="b2602c69:ProjectViewProjectNode" />
@@ -304,8 +227,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -380,22 +301,26 @@
       <workItem from="1526445058072" duration="16374000" />
       <workItem from="1526529899968" duration="3566000" />
       <workItem from="1526702907299" duration="620000" />
-      <workItem from="1527750411481" duration="8294000" />
+      <workItem from="1527750411481" duration="8878000" />
+      <workItem from="1527913180144" duration="1880000" />
+      <workItem from="1528350640348" duration="4811000" />
+      <workItem from="1531287706475" duration="2259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209030000" />
+    <option name="totallyTimeSpent" value="218564000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="34" width="1299" height="743" extended-state="6" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20430966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21388668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16992481" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -404,7 +329,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16992481" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -434,7 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6228">
           <caret line="346" column="4" lean-forward="false" selection-start-line="346" selection-start-column="4" selection-end-line="346" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -449,7 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5652">
           <caret line="314" column="1" lean-forward="true" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -464,7 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2952">
           <caret line="164" column="0" lean-forward="false" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -479,7 +400,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1098">
           <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -548,35 +468,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/australia/australian_education.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="60" column="34" lean-forward="false" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/australia/australian_after_study.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="60" column="34" lean-forward="false" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/australia/australia_apply_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="72" column="60" lean-forward="false" selection-start-line="72" selection-start-column="60" selection-end-line="72" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/australia/australia_migration.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2376">
           <caret line="132" column="0" lean-forward="false" selection-start-line="132" selection-start-column="0" selection-end-line="171" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,31 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="60" column="34" lean-forward="false" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/australia/australia_migration_details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1422">
-          <caret line="79" column="6" lean-forward="false" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/australia/australia_migration_pr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="60" column="34" lean-forward="false" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/japan/japan_education.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="128" column="49" lean-forward="false" selection-start-line="128" selection-start-column="49" selection-end-line="128" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -616,22 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="102" column="88" lean-forward="false" selection-start-line="102" selection-start-column="88" selection-end-line="102" selection-end-column="88" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#div#0;n#a#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/japan/japan_after_study.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="107" column="11" lean-forward="false" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#i#0;n#div#0;n#a#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#i#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#i#0;n#div#0;n#a#0;n#div#3;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -639,23 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="85" column="53" lean-forward="false" selection-start-line="85" selection-start-column="53" selection-end-line="85" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canada/canada_after_study.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="85" column="53" lean-forward="false" selection-start-line="85" selection-start-column="53" selection-end-line="85" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canada/canada_education.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="128" column="50" lean-forward="false" selection-start-line="128" selection-start-column="50" selection-end-line="128" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="85" column="42" lean-forward="false" selection-start-line="85" selection-start-column="42" selection-end-line="85" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,31 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
           <caret line="732" column="16" lean-forward="false" selection-start-line="732" selection-start-column="16" selection-end-line="732" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uk/uk_education.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="128" column="43" lean-forward="false" selection-start-line="128" selection-start-column="43" selection-end-line="128" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uk/uk_after_study.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="123" column="6" lean-forward="true" selection-start-line="123" selection-start-column="6" selection-end-line="123" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usa/usa_after_study.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-468">
-          <caret line="103" column="46" lean-forward="false" selection-start-line="103" selection-start-column="46" selection-end-line="103" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,23 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="85" column="43" lean-forward="false" selection-start-line="85" selection-start-column="43" selection-end-line="85" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usa/usa_education.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="128" column="44" lean-forward="false" selection-start-line="128" selection-start-column="44" selection-end-line="128" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study_abroad.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="152" column="22" lean-forward="true" selection-start-line="152" selection-start-column="22" selection-end-line="152" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,88 +521,234 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-558">
           <caret line="128" column="54" lean-forward="false" selection-start-line="128" selection-start-column="54" selection-end-line="128" selection-end-column="54" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/malaysia/about_malaysia_migration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="128" column="54" lean-forward="false" selection-start-line="128" selection-start-column="54" selection-end-line="128" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/canada/about_canada_migration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="117" column="45" lean-forward="false" selection-start-line="117" selection-start-column="45" selection-end-line="117" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="168" column="18" lean-forward="false" selection-start-line="168" selection-start-column="18" selection-end-line="168" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/japan/japan_education.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="95" column="47" lean-forward="true" selection-start-line="95" selection-start-column="47" selection-end-line="95" selection-end-column="47" />
+          <folding>
+            <marker date="1531288032691" expanded="false" signature="4039:4055" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/japan/japan_after_study.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="95" column="64" lean-forward="true" selection-start-line="95" selection-start-column="64" selection-end-line="95" selection-end-column="64" />
+          <folding>
+            <marker date="1531288054511" expanded="false" signature="4039:4055" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/canada/canada_education.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="99" column="21" lean-forward="true" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+          <folding>
+            <marker date="1531288178999" expanded="false" signature="4017:4033" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uk/uk_education.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="108" column="42" lean-forward="true" selection-start-line="108" selection-start-column="42" selection-end-line="108" selection-end-column="42" />
+          <folding>
+            <marker date="1531288296015" expanded="false" signature="4002:4018" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uk/uk_after_study.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="99" column="21" lean-forward="true" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+          <folding>
+            <marker date="1531288273207" expanded="false" signature="4002:4018" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usa/usa_education.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="99" column="18" lean-forward="true" selection-start-line="93" selection-start-column="12" selection-end-line="99" selection-end-column="18" />
+          <folding>
+            <marker date="1531288337411" expanded="false" signature="4004:4020" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/australia/australian_after_study.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="115" column="22" lean-forward="false" selection-start-line="115" selection-start-column="22" selection-end-line="115" selection-end-column="22" />
+          <folding>
+            <marker date="1531288574855" expanded="false" signature="4040:4056" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/australia/australian_education.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="98" column="23" lean-forward="true" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
+          <folding>
+            <marker date="1531288437519" expanded="false" signature="4040:4056" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usa/usa_after_study.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="101" column="38" lean-forward="false" selection-start-line="101" selection-start-column="38" selection-end-line="101" selection-end-column="38" />
+          <folding>
+            <marker date="1531288346531" expanded="false" signature="4004:4020" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/malaysia/malaysia_after_study.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="103" column="52" lean-forward="false" selection-start-line="103" selection-start-column="52" selection-end-line="103" selection-end-column="52" />
-          <folding />
+        <state relative-caret-position="165">
+          <caret line="94" column="39" lean-forward="true" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="39" />
+          <folding>
+            <marker date="1531288658287" expanded="false" signature="4014:4030" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/malaysia/malaysia_education.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="85" column="48" lean-forward="false" selection-start-line="85" selection-start-column="48" selection-end-line="85" selection-end-column="48" />
+        <state relative-caret-position="198">
+          <caret line="93" column="34" lean-forward="false" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
+          <folding>
+            <marker date="1531288658263" expanded="false" signature="4014:4030" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_abroad.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="145" column="61" lean-forward="false" selection-start-line="145" selection-start-column="61" selection-end-line="145" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/canada/canada_migration_pr.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="117" column="45" lean-forward="false" selection-start-line="117" selection-start-column="45" selection-end-line="117" selection-end-column="45" />
-          <folding />
+        <state relative-caret-position="363">
+          <caret line="104" column="22" lean-forward="true" selection-start-line="104" selection-start-column="22" selection-end-line="104" selection-end-column="22" />
+          <folding>
+            <marker date="1531288847551" expanded="false" signature="4051:4067" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/canada/canada_migration_details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="128" column="47" lean-forward="false" selection-start-line="128" selection-start-column="47" selection-end-line="128" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canada/about_canada_migration.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="117" column="45" lean-forward="false" selection-start-line="117" selection-start-column="45" selection-end-line="117" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/malaysia/about_malaysia_migration.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-666">
-          <caret line="128" column="54" lean-forward="false" selection-start-line="128" selection-start-column="54" selection-end-line="128" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/malaysia/malaysia_migration_details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="128" column="49" lean-forward="false" selection-start-line="128" selection-start-column="49" selection-end-line="128" selection-end-column="49" />
-          <folding />
+        <state relative-caret-position="194">
+          <caret line="101" column="40" lean-forward="false" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
+          <folding>
+            <marker date="1531288812863" expanded="false" signature="4037:4053" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/malaysia/malaysia_migration_pr.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-234">
-          <caret line="128" column="49" lean-forward="false" selection-start-line="128" selection-start-column="49" selection-end-line="128" selection-end-column="49" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="103" column="48" lean-forward="true" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
+          <folding>
+            <marker date="1531288905455" expanded="false" signature="4048:4064" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/malaysia/malaysia_migration_details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="109" column="47" lean-forward="true" selection-start-line="109" selection-start-column="47" selection-end-line="109" selection-end-column="47" />
+          <folding>
+            <marker date="1531288905435" expanded="false" signature="4048:4064" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/australia/australia_migration_pr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="117" column="57" lean-forward="true" selection-start-line="117" selection-start-column="57" selection-end-line="117" selection-end-column="57" />
+          <folding>
+            <marker date="1531289031743" expanded="false" signature="4050:4066" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/australia/australia_migration_details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="111" column="22" lean-forward="true" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
+          <folding>
+            <marker date="1531288982279" expanded="false" signature="4050:4066" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/migration.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="99" column="67" lean-forward="false" selection-start-line="99" selection-start-column="67" selection-end-line="99" selection-end-column="67" />
+        <state relative-caret-position="216">
+          <caret line="107" column="18" lean-forward="true" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/canada/canada_after_study.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1836">
-          <caret line="150" column="22" lean-forward="true" selection-start-line="150" selection-start-column="22" selection-end-line="150" selection-end-column="22" />
+        <state relative-caret-position="275">
+          <caret line="168" column="65" lean-forward="true" selection-start-line="168" selection-start-column="65" selection-end-line="168" selection-end-column="65" />
           <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#a#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/australia/australia_apply_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="796" column="14" lean-forward="true" selection-start-line="796" selection-start-column="14" selection-end-line="796" selection-end-column="14" />
+          <folding>
+            <marker date="1531289421987" expanded="false" signature="4042:4058" ph="..." />
           </folding>
         </state>
       </provider>
